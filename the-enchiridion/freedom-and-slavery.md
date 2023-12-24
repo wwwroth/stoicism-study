@@ -1,6 +1,6 @@
 The seventh principle of Epictetus' "The Enchiridion" revolves around the concepts of freedom and slavery, focusing on how these states are determined more by internal factors than external circumstances. Here's a detailed explanation:
 
-### 7. Freedom and Slavery
+### Freedom and Slavery
 
 **Internal vs. External Freedom**:
 
