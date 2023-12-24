@@ -1,6 +1,6 @@
 The fifth principle in Epictetus' "The Enchiridion" focuses on social relations and interactions. This aspect of Stoic philosophy provides guidance on how to conduct oneself in relation to others. Here's a detailed explanation:
 
-### 5. Social Relations
+### Social Relations
 
 **The Importance of Social Conduct**:
 
