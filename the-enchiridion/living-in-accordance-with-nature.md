@@ -1,6 +1,6 @@
 The ninth principle of Epictetus' "The Enchiridion" focuses on living in accordance with nature, a fundamental concept in Stoic philosophy. This principle encompasses how one should live life in harmony with the rational and natural order of the universe. Here's a detailed explanation:
 
-### 9. Living in Accordance with Nature
+### Living in Accordance with Nature
 
 **Alignment with Nature's Rational Order**:
 
