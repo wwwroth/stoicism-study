@@ -6,7 +6,7 @@
 
 3. **[Dealing with External Events](./external-events.md)**: Epictetus advises on how to remain undisturbed by external events. He suggests embracing whatever happens as part of the natural order and focusing on how we respond to these events.
 
-4. **[Desires and Aversions](./desires-and-adversions.md)**: The text stresses the importance of managing desires and aversions to achieve tranquility. It suggests avoiding desire altogether when it concerns things outside our control and only desiring what is true and real.
+4. **[Desires and Aversions](./desires-and-aversions.md)**: The text stresses the importance of managing desires and aversions to achieve tranquility. It suggests avoiding desire altogether when it concerns things outside our control and only desiring what is true and real.
 
 5. **[Social Relations](./social-relations.md)**: Epictetus provides guidance on social conduct, emphasizing respect for others, understanding, and kindness. He advises against getting swept up in the negative emotions of others.
 
