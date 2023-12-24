@@ -1,6 +1,6 @@
 The fourth principle of Epictetus' "The Enchiridion" addresses the management of desires and aversions, which is a key aspect of Stoic philosophy. Here's a detailed explanation:
 
-### 4. Desires and Aversions
+### Desires and Aversions
 
 **Understanding Desires and Aversions**:
 
