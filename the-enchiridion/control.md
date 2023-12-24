@@ -1,6 +1,6 @@
 The first principle of Epictetus' "The Enchiridion" focuses on understanding what is within our control and what is not, which is a central tenet of Stoic philosophy. This concept is detailed as follows:
 
-### 1. Understanding What is in Our Control
+### Understanding What is in Our Control
 
 **Distinction Between Control and Lack of Control**: Epictetus opens "The Enchiridion" by stating, "Some things are in our control and others not." He emphasizes that this distinction is crucial for living a fulfilling and serene life.
 
